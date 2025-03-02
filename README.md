@@ -13,6 +13,7 @@ $ curl http://localhost:8000/welcome/hermanwahyudi <br>
 > Go to Actions <br>
 > Select Build and Push Docker Image <br>
 > Run workflows and define branch also tag that you need <br>
+> Public DockerHub https://hub.docker.com/r/hermanwahyudi/sltrx <br>
 
 # kubernetes apply deployment
 $ k apply -f manifests -n sltrx <br>
