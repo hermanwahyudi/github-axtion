@@ -1,0 +1,7 @@
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: sltrx-cm
+data:
+  LOG_LEVEL: "debug"
