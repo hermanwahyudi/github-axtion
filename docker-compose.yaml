@@ -1,0 +1,8 @@
+version: "3.8"
+
+services:
+  sltr-app:
+    build: .
+    ports:
+      - "8000:5000"
+    restart: always
