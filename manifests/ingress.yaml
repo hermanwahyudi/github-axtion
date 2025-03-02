@@ -8,7 +8,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-  - host: sltrx.id
+  - host: sltrx.local
     http:
       paths:
       - path: /
